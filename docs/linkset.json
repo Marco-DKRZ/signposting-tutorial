@@ -1,15 +1,15 @@
 {
     "linkset": [
       {
-        "anchor": "https://stain.github.io/signposting-tutorial/",
+        "anchor": "https://marco-dkrz.github.io/signposting-tutorial/",
         "cite-as": [
           {
-            "href": "https://w3id.org/signposting-tutorial/stain"
+            "href": "https://w3id.org/signposting-tutorial/marco-dkrz"
           }
         ],        
         "item": [
           {
-            "href": "https://stain.github.io/signposting-tutorial/7338056/"
+            "href": "https://marco-dkrz.github.io/signposting-tutorial/7338056/"
           }
         ]
       }
